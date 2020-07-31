@@ -18,7 +18,7 @@ class GreetingBot(Bot):
         if is_good(s):
             return "I'm feeling good too"
         else:
-            return "Sorry to hear that"\
+            return "Sorry to hear that"
 
 
 if __name__ == '__main__':
